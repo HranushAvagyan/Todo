@@ -1,0 +1,22 @@
+.todo__items{
+    border: 1px solid #3d3d3d96;
+    border-radius: 5px;
+    background-color: #D1D1D1;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.checkbox:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.cancle{
+    color: #3d3d3de5;
+}
+
+.cancle:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}

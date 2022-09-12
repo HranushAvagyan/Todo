@@ -1,0 +1,27 @@
+.form{
+    display: flex;
+    justify-content:space-around;
+    width: 80%;
+    
+}
+.input-box{
+    
+    width: 75%;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    outline:none ;
+    box-shadow: 0 1px 2px 0;
+}
+.btn:hover{
+    transform: translate(-1px ,-1px);
+}
+.btn{
+    width: 15%;
+    height: 30px;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px 0 #212121;
+    border: none;
+    background-color: #D1D1D1;
+    color: #3d3d3de5;
+}
